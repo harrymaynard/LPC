@@ -15,3 +15,5 @@
 
 # Ignore my template folders
 *Credits Template.txt
+
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "name": "lpc",
+  "version": "1.0.0",
+  "description": "This is a rework of the Liberated Pixel Cup pixel art asset kit. LPC uses a bright 128 color palette and a 32x32 tile resolution. I aim to curate and add pieces to this set to expand it while remaining consistent in style and tone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrymaynard/LPC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrymaynard/LPC/issues"
+  },
+  "homepage": "https://github.com/harrymaynard/LPC#readme"
+}
